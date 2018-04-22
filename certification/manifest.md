@@ -29,7 +29,7 @@ The following fields need to be present and contain valid data:
 
 ```
 <html>
-<head prefix="fws: http://fairwebservices.org/ns#>
+<head prefix="fws: http://fairwebservices.org/ns#">
 <title>Example FWS Manifest</title>
 <meta property="fws:api_endpoint" content="https://example.com/api/v1" />
 <meta property="fws:api_docs" content="https://docs.example.com/api" />
