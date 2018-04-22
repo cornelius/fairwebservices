@@ -8,7 +8,7 @@ To provide a standardized way of expressing compliance with the Fair Web Service
 
 ### Location
 
-The file is served as `is_a_fair_web_service.html` on the root level of the services` web site. See the example of the FWS site: http://fairwebservices.org/is_a_fair_web_service.html.
+The file is served as `is_a_fair_web_service.html` on the root level of the services` web site. See the example of the FWS site: [http://fairwebservices.org/is_a_fair_web_service.html](http://fairwebservices.org/is_a_fair_web_service.html).
 
 ### Fields
 
