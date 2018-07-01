@@ -6,20 +6,16 @@ layout: main
 
 ## What makes a web service free as in freedom?
 
-*If you would like to follow this project's progress, feel free to subscribe to our [weekly newsletter](https://tinyletter.com/fairwebservices).*
-
 Free Software puts users in charge of their computing. They have control. The Free Software Definition defines the freedoms which guarantee that. When using web services, that is software run by others, the Free Software Definition is not enough. Fair Web Services is an attempt to define criteria for web services which guarantee that users stay in control of their computing and retain the freedoms they have gained with Free Software.
 
 This site is the collection point for defining criteria for Fair Web Services. It's the beginning of a journey and it is in flux. Take it as the base for a discussion and contribute your thoughts. Our goal is to refine that in a solid set of criteria which can be applied by providers and users of web services who care about freedom.
+
+*If you would like to follow this project's progress, feel free to subscribe to our [weekly newsletter](https://tinyletter.com/fairwebservices).*
 
 
 ## Problems
 
 There are a number of problems with the freedom of web services, which can't be addressed through Free Software.
-
-### Terms of Services
-
-Terms of services govern the relation of the user and the service provider. They are usually hard to read and understand and might take away lots of control and freedom from the user. They can turn a service running on free software in a very non-free service.
 
 ### Lock-in
 
@@ -32,6 +28,10 @@ If a service provider goes out of business or a service is stopped for any other
 ### Privacy
 
 Users should be in control of their private data. They should be able to decide who is seeing their data. It takes a serious effort by a service provider to maintain user's privacy. Some service's business models might go against privacy by selling data or tracking. Surveillance can also affect user's privacy.
+
+### Terms of Services
+
+Terms of services govern the relation of the user and the service provider. They are usually hard to read and understand and might take away lots of control and freedom from the user. They can turn a service running on free software in a very non-free service.
 
 ### Meta Data
 
@@ -54,17 +54,17 @@ Hackability (in the good sense) is a fundamental trait of Free Software. You can
 
 There are a number of attempts to solve the problems of freedom of web services. This is a list of relevant links to similar or related projects for inspiration and reference.
 
-* <a href="https://www.gnu.org/licenses/agpl-3.0.en.html">GNU Affero Public License</a>
-* <a href="http://wiki.p2pfoundation.net/Franklin_Street_Statement_on_Freedom_and_Network_Services">Franklin Street Statement on Freedom and Network Services</a>
-* <a href="https://www.gnu.org/software/repo-criteria.en.html">GNU Ethical Repository Criteria</a>
-* <a href="https://tosdr.org">ToS;DR</a>
-* <a href="https://userdatamanifesto.org">User Data Manifesto</a>
-* <a href="https://exote.ch/blogs/aseigo/2009/10/14/freedom_services">Freedom Services</a>
-* <a href="https://openbit.eu/projekte/trusted-internet-services/">Trusted Internet Services</a>
-* <a href="https://www.eff.org/wp/osp">EFF's Best Practices for Online Service Providers</a>
-* <a href="https://en.wikipedia.org/wiki/Bundesdatenschutzgesetz">Laws</a>
-* <a href="http://5rightsframework.com/">5Rights</a>
-* <a href="http://data.southampton.ac.uk/5star.html">5 star data</a>
+* [GNU Affero Public License](https://www.gnu.org/licenses/agpl-3.0.en.html)
+* [Franklin Street Statement on Freedom and Network Services](http://wiki.p2pfoundation.net/Franklin_Street_Statement_on_Freedom_and_Network_Services)
+* [GNU Ethical Repository Criteria](https://www.gnu.org/software/repo-criteria.en.html)
+* [ToS;DR](https://tosdr.org)
+* [User Data Manifesto](https://userdatamanifesto.org)
+* [Freedom Services](https://exote.ch/blogs/aseigo/2009/10/14/freedom_services)
+* [Trusted Internet Services](https://openbit.eu/projekte/trusted-internet-services/)
+* [EFF's Best Practices for Online Service Providers](https://www.eff.org/wp/osp)
+* [Laws](https://en.wikipedia.org/wiki/Bundesdatenschutzgesetz)
+* [5Rights](http://5rightsframework.com/)
+* [5 star data](http://data.southampton.ac.uk/5star.html)
 
 
 ## The Fair Web Services certification
@@ -73,7 +73,7 @@ None of the solutions is complete yet or has enough traction to serve as a widel
 
 The idea is to create criteria for a certification of services. The certification would allow providers to show that they respect the freedom of users and give users a guideline about what services to use.
 
-We have a <a href="certification">draft of the certification</a> now.
+We have a [draft of the certification](certification) now.
 
 ### Criteria
 
@@ -107,7 +107,7 @@ We'll collect a list of examples of web services and check how the criteria matc
 
 ## Presentations
 
-The idea of Fair Web Services was presented at a couple of conferences. Recordings from <a href="https://media.ccc.de/v/6-what_makes_a_web_service_free_as_in_freedom">GUADEC</a>, <a href="https://www.youtube.com/watch?v=lelaQnW-u0w&index=9&list=PLsHpGlwPdtMogitRYzwPz4dWTVsZRGwts">Akademy</a>, the <a href="https://youtu.be/adz3p5o61wc?list=PLtZe22ggl2YBVYQQ5rMzMi7uFnXHUA0Qg">ownCloud conference</a>, and the <a href="https://www.youtube.com/watch?v=Y2Q1BuBMD7A">NextCloud conference</a> are available.
+The idea of Fair Web Services was presented at a couple of conferences. Recordings from [GUADEC](https://media.ccc.de/v/6-what_makes_a_web_service_free_as_in_freedom), [Akademy](https://www.youtube.com/watch?v=lelaQnW-u0w&index=9&list=PLsHpGlwPdtMogitRYzwPz4dWTVsZRGwts), the [ownCloud conference](https://youtu.be/adz3p5o61wc?list=PLtZe22ggl2YBVYQQ5rMzMi7uFnXHUA0Qg), and the [NextCloud conference](https://www.youtube.com/watch?v=Y2Q1BuBMD7A) are available.
 
 
 ## Road map
@@ -120,7 +120,7 @@ The presentations, workshops and discussions around that in summer 2016 are the 
 
 ### 2. Launching the web site
 
-On 10 Sep 2016 the <a href="http://fairwebservices.org">web site</a> was launched. This is the central point where we collect results and discussions.
+On 10 Sep 2016 the [web site](http://fairwebservices.org) was launched. This is the central point where we collect results and discussions.
 
 ### 3. Version 1.0 of the Fair Web Services criteria
 
@@ -137,12 +137,12 @@ Finally the certification should be done formally by an organization which is wa
 
 ## Contributing to the discussion
 
-You are welcome to contribute to the discussion about how to keep our freedom when using web services. If you want to discuss a topic, open or contribute to an issue in the <a href="https://github.com/cornelius/fairwebservices/issues">issue tracker</a>. If you want to propose a change of the text on the web site, <a href="https://github.com/cornelius/fairwebservices">create a pull request</a>.
+You are welcome to contribute to the discussion about how to keep our freedom when using web services. If you want to discuss a topic, open or contribute to an issue in the [issue tracker](https://github.com/cornelius/fairwebservices/issues). If you want to propose a change of the text on the web site, [create a pull request](https://github.com/cornelius/fairwebservices).
 
 
 ## Author
 
-The initial author of this web site is Cornelius Schumacher. Please don't hesitate to <a href="mailto:schumacher@kde.org">get in touch</a> if you have any questions or comments.
+The initial author of this web site is Cornelius Schumacher. Please don't hesitate to [get in touch](mailto:schumacher@kde.org) if you have any questions or comments.
 
 
 ## License
