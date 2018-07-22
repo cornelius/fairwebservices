@@ -6,7 +6,7 @@ layout: certification
 
 Applying standard security measures should go without saying for any service. But it's even more important to also establish trust with the user. When relying on a service run by somebody else, users can't check for themselves what is done to keep the service secure. So the service provider has to build trust by being transparent and reactive about security.
 
-### Encrypting traffic
+### Encryption of traffic
 
 The service only uses https and not http.
 
